@@ -14,6 +14,8 @@ Nigerians have a notable online presence and actively discuss political and topi
       Figures 1 and 2: 
 </p>
 
+Tweets were manually extracted from twitter platform over a period of ten weeks and about 3,398 tweets were collected and annotated. For the purpose of this study, only tweets and replies from three candidates—Babajide Olusola Sanwo-Olu representing APC, Gbadebo Chinedu Patrick Rhodes-Vivour popularly known as GRV representing LP, and Abdul-Azeez Olajide Adediran, popularly known as Jandor representing PDP, were utilized due to the substantial traffic and reactions on their pages, providing ample data for this research. 
+Here we adopted the labelling scheme of <b>normal</b> (or nonoffensive), <b>abusive</b>, <b>hateful</b>, and <b>contempt</b>.
 
 If you use our data, please cite this paper
 ```
