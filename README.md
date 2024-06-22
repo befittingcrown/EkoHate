@@ -4,8 +4,8 @@ This repo contains the dataset and code for the above titled paper published at 
 Nigerians have a notable online presence and actively discuss political and topical matters. This was particularly evident throughout the 2023 general election, where Twitter was used for campaigning, fact-checking and verification, and even positive and negative discourse. However, little or none has been done in the detection of abusive language and hate speech in Nigeria. In this paper, we curated code-switched Twitter data directed at three musketeers of the governorship election on the most populous and economically vibrant state in Nigeria; Lagos state, with the view to detect offensive speech in political discussions.
 
 <p align="center">
-      <img src="images/candidate_chart.jpg" align="left">
-      <img src="images/candidate_chart.jpg" align="right">
+      <img src="images/candidate_chart.jpg" align="left" width="300"/>
+      <img src="images/data_chart.jpg" align="right" width="300">
 </p>
 
 
